@@ -1,19 +1,7 @@
-*{
-    padding: 0;
-    margin: 0;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-}
 
-.wrapper{
-    width: 100%;
-    overflow-x: hidden;
-}
-.wrapper .container{
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 20px;
-}
+
+
+
 .category-filter{
     margin-top: 40px;
 }

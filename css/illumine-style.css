@@ -3356,6 +3356,13 @@ img {
   display: inline-block;
 }
 
+.payment {
+  width: 25px;
+  max-width: 25px;
+  margin-right: 10px;
+  display: inline-block;
+}
+
 blockquote {
   border-left: 5px solid #e2e2e2;
   margin-top: 26px;
@@ -3828,6 +3835,10 @@ figcaption {
   margin-bottom: 45px;
 }
 
+.footer-text-bottom {
+  margin-bottom: 15px;
+}
+
 .footer-menu-heading {
   opacity: .5;
   color: var(--primary-dark);
@@ -4128,6 +4139,7 @@ figcaption {
 .caption-title {
   opacity: .6;
   margin-bottom: 12px;
+  margin-top: 25px;
 }
 
 .medium-weight {

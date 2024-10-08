@@ -7719,7 +7719,7 @@ figcaption {
   }
 
   .nav-container {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: auto;
   }
 
   .footer-body {

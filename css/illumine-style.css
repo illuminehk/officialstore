@@ -5190,7 +5190,7 @@ figcaption {
   }
 
   .nav-container {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: center;
     padding-left: 15px;
     padding-right: 20px;
   }

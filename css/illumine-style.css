@@ -4182,13 +4182,13 @@ figcaption {
 
 .product-label-new {
   color: var(--accent);
-  margin-top: 7px;
+  margin-top: -15px;
   font-weight: 500;
 }
 
 .product-label-best {
   color: var(--hot);
-  margin-top: 7px;
+  margin-top: -15px;
   font-weight: 500;
 }
 

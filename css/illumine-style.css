@@ -7276,7 +7276,7 @@ figcaption {
 
   .nav-container {
     grid-column-gap: 0px;
-    grid-template-columns: .5fr 1.5fr;
+    grid-template-columns: 0fr 1.5fr;
     padding-left: 24px;
     padding-right: 24px;
   }
